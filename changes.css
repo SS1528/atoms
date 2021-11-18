@@ -1,0 +1,22 @@
+ul {
+    font-family: 'Slabo 27px', serif;
+    font-size: 16px;
+}
+
+#next_topic {
+    margin-right: 30px;
+    margin-bottom: 20px;
+    float: right;
+}
+
+#header {
+    font-family: 'Montserrat', sans-serif;
+    color: #134f5c;
+    text-align: center;
+    font-size: 35px;
+}
+
+p {
+    font-family: 'Slabo 27px', serif;
+    font-size: 18px;
+}

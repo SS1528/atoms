@@ -1,0 +1,58 @@
+#header {
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+    text-align: center;
+    font-size: 35px;
+}
+
+#learn {
+    background-color: #f3f3f3ff;
+    padding: 10px;
+    padding-left: 40px;
+    width: 50%;
+    border-radius: 20px;
+    border: black solid;
+    margin: auto;
+    box-shadow: 5px 5px 5px gray;
+}
+
+p {
+    font-family: 'Slabo 27px', serif;
+    font-size: 18px;
+}
+
+ul {
+    font-family: 'Slabo 27px', serif;
+    font-size: 16px;
+}
+
+.subheading {
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+}
+
+img {
+    height: 300px;
+    margin: 20px;
+}
+
+#atom {
+    background-color: #f3f3f3ff;
+    padding: 10px;
+    padding-left: 20px;
+    width: 75%;
+    border-radius: 20px;
+    border: black solid;
+    margin: auto;
+    box-shadow: 5px 5px 5px gray;
+}
+
+.atoms_iframe {
+    margin: 40px;
+}
+
+#next_topic {
+    margin-right: 30px;
+    margin-bottom: 20px;
+    float: right;
+}
